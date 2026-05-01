@@ -56,7 +56,7 @@
 
 ```
 
-opencv-pyqt-makeup-software-master/
+AI-beauty-makeup/
 
 ├── AIMakeup.py        # 核心美颜算法与面部处理模块
 
@@ -66,13 +66,7 @@ opencv-pyqt-makeup-software-master/
 
 ├── data/
 
-│   └── shape\_predictor\_68\_face\_landmarks.dat  # dlib 人脸关键点模型
-
-├── raw/               # 可存放测试图片
-
-├── .idea/             # PyCharm 配置文件（可选）
-
-├── .venv/             # Python 虚拟环境（可选）
+│   └── shape\_predictor\_68\_face\_landmarks.dat  # dlib 人脸关键点模型（需自己下载）
 
 └── README.md          # 项目说明文档
 
